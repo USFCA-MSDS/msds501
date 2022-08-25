@@ -6,7 +6,6 @@ Writing software is about problem solving, computer languages, algorithms, data 
 
 # Class details
 
-**INSTRUCTOR.** [Terence Parr](http://parrt.cs.usfca.edu). I’m a professor in the computer science and [data science program](https://www.usfca.edu/arts-sciences/graduate-programs/data-science) departments and was founding director of the MS in Analytics program at USF (which became the MS data science program).  Please call me Terence or Professor (“Terry” is not ok).
 
 **SPATIAL COORDINATES:**<br>
 
